@@ -1,0 +1,27 @@
+employee_id,name,username,department
+E101,Alice Kim,alice.k,Engineering
+E102,Ben Ortiz,ben.o,Engineering
+E103,Raj Patel,raj.p,Sales (terminated 2025-12)
+E104,Mike Tran,mike.t,IT
+E105,Sofia Reyes,sofia.r,Product
+E106,Devon Clarke,devon.c,Marketing
+E107,Priya Nair,priya.n,Engineering
+E108,Chris Lee,chris.l,Sales
+E109,Hana Suzuki,hana.s,Support
+E110,Omar Farouk,omar.f,IT
+E111,Raj Pillai,raj.p2,Engineering
+E112,Ray Perez,ray.p,Sales
+E113,Nadia Osei,nadia.o,Marketing
+E114,Wendy Zhou,wendy.z,Finance
+E115,Tariq Malik,tariq.m,Finance
+E116,Grace Field,grace.f,Support
+E117,Leo Bennett,leo.b,Engineering
+E118,Ivy Chen,ivy.c,Engineering
+E119,Sam Okafor,sam.o,Sales
+E120,Nina Kowalski,nina.k,Marketing
+E121,Diego Alvarez,diego.a,IT
+E122,Rachel Adams,rachel.a,Support
+E123,Kevin Wu,kevin.w,Engineering
+E124,Fatima Haidari,fatima.h,Finance
+E125,Tom Baxter,tom.b,Sales
+E126,Ella Novak,ella.n,Marketing
