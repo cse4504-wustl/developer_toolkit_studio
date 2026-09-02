@@ -25,7 +25,7 @@ A few things to know before you start:
   you accuse anyone.
 
 * More than one login that night came from an unfamiliar, external IP
-  address, off-hours. Not all of them are malicious -- several employees
+  address, off-hours. Not all of them are malicious - several employees
   legitimately work remotely or travel. 
 
 * Some of the account records in this folder are out of date. Make sure
