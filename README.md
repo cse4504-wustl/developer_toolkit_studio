@@ -9,13 +9,13 @@ Security believes this was NOT an employee. Someone broke into an account
 from outside the company and used it to pull customer data.
 
 This repository contains the raw evidence, unsorted, straight off the servers. Your
-job is to find the attacker's IP address and prove it wasn't legitimate
-activity.
+job is to find the attacker's IP address and the name of the person whose account
+was compromised. You will need to prove it wasn't legitimate activity.
 
 A few things to know before you start:
 
 * The customer portal runs behind a load balancer across TWO servers
-  (web1 and web2). Requests for the same night are split across both --
+  (web1 and web2). Requests for the same night are split across both,
   checking only one server gives you an incomplete picture.
 
 * There is more than one suspicious-looking IP address hammering the
@@ -36,7 +36,7 @@ A few things to know before you start:
 Using the Linux commands we covered in class and the data contained in this repository, 
 figure out:
 1. The IP address of the attacker
-2. The employee name whose account was compromized.
+2. The employee name whose account was compromised.
 
 Support your concusions with as much evidence as you can collect. 
 Record the commands you use for each step in commands.sh. You can add comments
