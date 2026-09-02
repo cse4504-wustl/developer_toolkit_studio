@@ -76,10 +76,10 @@ to commands.sh, make sure to start each line of comments with `#`.
    is in a file that has the word scanner in it. Record the `find` command you used to locate
    the allowed list file and the `grep` commands you used in commands.sh.
 
-8. In the last step, you eliminated some suspects. Using the remaining suspect IP list, 
-   inspect the traffic coming from each suspicious IP address to eliminate more suspects.
-   Recall, that the attacker made a request to /api/customers/export
-   Record the commands you used in this step in commands.sh
+8. In the last step, you should have eliminated one or more suspicious IP addresses. 
+   Inspect the traffic coming from the remaining suspicious IP addresses to eliminate more suspects.
+   We know that the attacker made a request to /api/customers/export.
+   Record the commands you used in this step in commands.sh.
 
 9. Locate the file that contains employee id information. The name of this file is `accounts`
    and it has some file extension.
