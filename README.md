@@ -83,10 +83,10 @@ to commands.sh, make sure to start each line of comments with `#`.
 
 9. Locate the file that contains employee id information. The name of this file is `accounts`
    and it has some file extension.
-   Record the `find` command you used in commands.sh
+   Record the `find` command you used in commands.sh.
 
-10. Look up your suspect in the file you located in the previous step. Record the command
-   you used in commands.sh
+10. Look up the name of the employee associated with the login ID used for the attack 
+    (in the file you located in the previous step). Record the command you used in commands.sh.
 
 11. Create a file evidence.txt. In this file, name your one suspect and present supporting evidence.
 
