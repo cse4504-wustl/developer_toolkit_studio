@@ -56,7 +56,7 @@ to commands.sh, make sure to start each line of comments with `#`.
 
 4. Pipe the output of your previous command as the input to `awk`. Use an `awk` command
    to narrow down the failed login attempts to those made outside of business hours (9:00-18:00).
-   that were made outside of normal business hours (9:00-18:00). You may need to have two `awk` 
+   You may need to have two `awk` 
    commands to accomplish this, piping the output of one command as the input to the other:
    - one that splits each line by `:`
    - another one that filters by the hour being less than 9 or greater than 18
