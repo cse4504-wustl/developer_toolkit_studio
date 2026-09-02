@@ -59,7 +59,7 @@ to commands.sh, make sure to start each line of comments with `#`.
    You may need to have two `awk` 
    commands to accomplish this, piping the output of one command as the input to the other:
    - one that splits each line by `:`
-   - another one that filters by the hour being less than 9 or greater than 18
+   - another one that filters by the hour being less than 9 or greater than 18.
    Your command needs to print the IP address of the failed request, and the API endpoint of the
    request. This API endpoint will contain the username associated with the login, you'll need it later.
 
