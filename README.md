@@ -8,7 +8,7 @@ requests to an internal endpoint that returns customer records.
 Security believes this was NOT an employee. Someone broke into an account
 from outside the company and used it to pull customer data.
 
-This folder is the raw evidence, unsorted, straight off the servers. Your
+This repository contains the raw evidence, unsorted, straight off the servers. Your
 job is to find the attacker's IP address and prove it wasn't legitimate
 activity.
 
