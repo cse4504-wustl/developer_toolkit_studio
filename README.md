@@ -3,10 +3,7 @@
 ## Briefing:
 
 Late on the night of August 21st, 2026, TechCorp's customer portal logged
-requests to /api/customers/export - an internal endpoint that returns
-customer records. It should only ever be hit by a logged-in employee with
-a legitimate business reason (Sales/Support reps looking up their own
-accounts), and never in the middle of the night.
+requests to an internal endpoint that returns customer records. 
 
 Security believes this was NOT an employee. Someone broke into an account
 from outside the company and used it to pull customer data.
