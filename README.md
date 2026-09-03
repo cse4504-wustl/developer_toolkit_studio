@@ -42,6 +42,16 @@ Support your concusions with as much evidence as you can collect.
 Record the commands you use for each step in commands.sh. You can add comments
 to commands.sh, make sure to start each line of comments with `#`.
 
+## Getting Started
+Clone the repository to your local computer using git command line tools you learned earlier
+```
+git clone <YOUR_REPO_PATH.git>
+```
+If working on MacOS or Linux, open the terminal. If working on Windows, open gitbash.
+
+Navigate to your repository clone using the `cd` command. Note that `cd ~` will take you to your
+home directory. That's a convenient shortcut you can use.
+
 ## Steps
 
 1. Find the relevant files with records of access traffic. These files are
